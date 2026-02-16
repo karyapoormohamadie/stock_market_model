@@ -1,1 +1,1 @@
-an RNN model to fiand the best investment option of companys
+an RNN model that for the chosen compony would get its data , clean it and make an prediction based on that
